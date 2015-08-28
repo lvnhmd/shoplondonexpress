@@ -1,0 +1,44 @@
+{
+  "name": "shoplondonexpress",
+  "version": "1.0.0",
+  "description": "shop.london",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lvnhmd/shoplondonexpress.git"
+  },
+  "keywords": [
+    "brand",
+    "brands",
+    "london",
+    "directory",
+    "shop",
+    "fashion",
+    "sale",
+    "sales",
+    "discount",
+    "discounts",
+    "shoes",
+    "bags",
+    "lipstick",
+    "stylist",
+    "asks",
+    "selfridges",
+    "john",
+    "lewis"
+  ],
+  "author": "elvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvnhmd/shoplondonexpress/issues"
+  },
+  "homepage": "https://github.com/lvnhmd/shoplondonexpress",
+  "dependencies": {
+    "express": "^4.13.3",
+    "simplecrawler": "^0.5.2",
+    "x-ray": "^2.0.2"
+  }
+}
